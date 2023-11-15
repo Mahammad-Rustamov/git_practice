@@ -1,7 +1,2 @@
-*.class
-
-
-bin/
-
-
 .classpath
+/bin
